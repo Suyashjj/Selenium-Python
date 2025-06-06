@@ -32,40 +32,6 @@ This repository is a complete learning and working framework for Selenium automa
 
 ---
 
-## 📂 Folder Structure
-
-selenium-python-framework/
-│
-├── 01_locators/
-├── 02_multi_browser/
-├── 03_api_methods/
-├── 04_advanced_user_interactions/
-├── 05_e2e_examples/
-│
-├── 06_pytest_basics/
-├── 07_pytest_fixtures/
-├── 08_pytest_parameterization/
-├── 09_pytest_annotations/
-├── 10_pytest_reports/
-│
-├── 11_logging/
-├── 12_pom_design_pattern/
-├── 13_framework_design/
-├── 14_data_driven_excel/
-├── 15_pyxl_integration/
-├── 16_jenkins_ci/
-│
-├── projects/
-│ ├── eCommerce_Automation/
-│ └── HRM_TestSuite/
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-
-
----
-
 ## 🚀 Getting Started
 
 ### 🔧 Installation
