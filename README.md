@@ -14,21 +14,22 @@ This repository is a complete learning and working framework for Selenium automa
 
 ## 📌 Topics Covered
 
-- ✅ Selenium Locators
-- ✅ Selenium Multi-Browser Execution
-- ✅ Python Selenium API Methods
-- ✅ Advanced User Interactions (ActionsChains)
-- ✅ End-to-End Automation Examples
-- ✅ PyTest - Unit Testing Framework
-- ✅ Fixtures and Parameterization
-- ✅ PyTest Annotations & CLI Arguments
-- ✅ PyTest Reports (HTML/XML)
-- ✅ Python Logging (Log4J style)
-- ✅ Page Object Model (POM)
-- ✅ End-to-End Framework Design from Scratch
-- ✅ Excel Data-Driven Framework
-- ✅ Pyxl Integration with Selenium
-- ✅ Jenkins CI Integration
+- ✅ Selenium Locators  
+- ✅ Selenium Multi-Browser Execution  
+- ✅ Python Selenium API Methods  
+- ✅ Advanced User Interactions (ActionsChains)  
+- ✅ End-to-End Automation Examples  
+- ✅ PyTest - Unit Testing Framework  
+- ✅ Fixtures and Parameterization  
+- ✅ PyTest Annotations & CLI Arguments  
+- ✅ PyTest Reports (HTML/XML)  
+- ✅ Python Logging (Log4J style)  
+- ✅ Page Object Model (POM)  
+- ✅ End-to-End Framework Design from Scratch  
+- ✅ Excel Data-Driven Framework  
+- ✅ Pyxl Integration with Selenium  
+- ✅ Jenkins CI Integration  
+- 🟩 Projects
 
 ---
 
@@ -41,5 +42,10 @@ git clone https://github.com/yourusername/selenium-python-framework.git
 cd selenium-python-framework
 pip install -r requirements.txt
 
+### ▶️ Run Script
 
+To run a specific test file:
+
+```bash
+python <your_test_file>.py
 
