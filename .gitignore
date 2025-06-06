@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+
+# Environment variables file
+.env
+
+# VS Code settings
+.vscode/
+
+# Test/report files
+*.log
+*.csv
+*.sqlite3
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# macOS system files (just in case)
+.DS_Store
