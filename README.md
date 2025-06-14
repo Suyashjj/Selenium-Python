@@ -2,7 +2,7 @@
 
 ![logo](https://www.seleniumhq.org/selenium-ide/img/selenium-ide128.png)
 
-_An end-to-end Selenium automation framework with PyTest, Excel-driven testing, and CI integration._
+_An end-to-end Selenium automation framework with PyTest, Excel-driven testing, and CI integration.
 
 ---
 
